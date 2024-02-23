@@ -1,0 +1,21 @@
+/* src/components/DestinationSearch/index.css */
+.destination-search-container {
+    width: 300px;
+    margin: 20px auto;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .destinations-list {
+    display: flex;
+    flex-direction: column;
+  }
+  /* src/components/DestinationSearch/index.css */
+
+  /* Add any additional styling as needed */
+  
